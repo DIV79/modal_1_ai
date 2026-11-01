@@ -1,0 +1,17 @@
+.git
+.venv
+venv
+build
+dist
+__pycache__
+*.pyc
+.vscode
+.kilo
+.vercel
+ARIA.spec
+build_exe.bat
+run.bat
+aria_icon.ico
+main.py
+assistant.py
+PROJECT_OVERVIEW.md

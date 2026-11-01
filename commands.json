@@ -1,0 +1,180 @@
+{
+    "apps": {
+        "notepad": "notepad.exe",
+        "calculator": "calc.exe",
+        "paint": "mspaint.exe",
+        "file explorer": "explorer.exe",
+        "task manager": "taskmgr.exe",
+        "control panel": "control.exe",
+        "word": "winword.exe",
+        "excel": "excel.exe",
+        "powerpoint": "powerpnt.exe",
+        "chrome": "chrome.exe",
+        "firefox": "firefox.exe",
+        "edge": "msedge.exe",
+        "vs code": "code.exe",
+        "visual studio code": "code.exe",
+        "cmd": "cmd.exe",
+        "command prompt": "cmd.exe",
+        "powershell": "powershell.exe",
+        "spotify": "spotify.exe",
+        "discord": "discord.exe",
+        "steam": "steam.exe",
+        "vlc": "vlc.exe",
+        "photos": "photos.exe",
+        "camera": "camera.exe",
+        "mail": "outlook.exe",
+        "calendar": "calendar.exe",
+        "calendar windows": "outlook.exe"
+    },
+    "custom_commands": {},
+    "learned_paths": {},
+    "usage_count": {},
+    "history": [
+        {
+            "time": "2026-10-13T13:01:35.204157",
+            "command": "price of iphone 15"
+        },
+        {
+            "time": "2026-10-13T13:01:36.130577",
+            "command": "read file d:/ai modal/run.bat"
+        },
+        {
+            "time": "2026-10-13T13:01:55.092440",
+            "command": "create file scratch_test.txt with content hello aria test"
+        },
+        {
+            "time": "2026-10-13T13:01:55.094160",
+            "command": "read file scratch_test.txt"
+        },
+        {
+            "time": "2026-10-13T13:01:55.103998",
+            "command": "rewrite file scratch_test.txt replace hello with greetings"
+        },
+        {
+            "time": "2026-10-13T13:01:55.106099",
+            "command": "read file scratch_test.txt"
+        },
+        {
+            "time": "2026-10-13T13:01:55.114411",
+            "command": "run file scratch_test.txt"
+        },
+        {
+            "time": "2026-10-13T13:01:55.130497",
+            "command": "list files in ."
+        },
+        {
+            "time": "2026-10-13T13:02:05.304732",
+            "command": "create file test_run.py with content print(aria python execution test successful!)"
+        },
+        {
+            "time": "2026-10-13T13:02:05.306008",
+            "command": "run file test_run.py"
+        },
+        {
+            "time": "2026-10-13T13:02:13.496407",
+            "command": "create file test_run.py with content print(12345)"
+        },
+        {
+            "time": "2026-10-13T13:02:13.497755",
+            "command": "run file test_run.py"
+        },
+        {
+            "time": "2026-10-13T13:48:35.961370",
+            "command": "help"
+        },
+        {
+            "time": "2026-10-13T13:48:50.002182",
+            "command": "why is the sky blue"
+        },
+        {
+            "time": "2026-10-13T13:52:54.662274",
+            "command": "what time is it"
+        },
+        {
+            "time": "2026-10-13T13:52:54.663182",
+            "command": "hello"
+        },
+        {
+            "time": "2026-10-13T13:52:54.664170",
+            "command": "clear chat"
+        },
+        {
+            "time": "2026-10-13T13:52:54.664808",
+            "command": "explain photosynthesis"
+        },
+        {
+            "time": "2026-10-13T13:53:17.753329",
+            "command": "open facebook account"
+        },
+        {
+            "time": "2026-10-13T13:53:35.024950",
+            "command": "calculate 5 + 6"
+        },
+        {
+            "time": "2026-10-13T13:55:08.483911",
+            "command": "open facebook account"
+        },
+        {
+            "time": "2026-10-13T13:55:18.033462",
+            "command": "calculate 5 + 6"
+        },
+        {
+            "time": "2026-10-13T13:58:35.999158",
+            "command": "open youtube"
+        },
+        {
+            "time": "2026-10-13T14:03:21.112785",
+            "command": "modi"
+        },
+        {
+            "time": "2026-10-13T14:03:41.535921",
+            "command": "modi"
+        },
+        {
+            "time": "2026-10-13T14:04:22.908547",
+            "command": "why this is failed"
+        },
+        {
+            "time": "2026-10-13T14:16:07.686386",
+            "command": "clculate 5+6"
+        },
+        {
+            "time": "2026-10-13T14:16:56.323444",
+            "command": "ask gemini"
+        },
+        {
+            "time": "2026-10-13T14:17:02.111091",
+            "command": "modi"
+        },
+        {
+            "time": "2026-10-13T14:17:35.143349",
+            "command": "oprn google"
+        },
+        {
+            "time": "2026-10-21T16:38:22.346676",
+            "command": "hii"
+        },
+        {
+            "time": "2026-10-21T16:38:59.521716",
+            "command": "hello"
+        },
+        {
+            "time": "2026-10-21T16:39:51.841805",
+            "command": "can you tell wheere i am"
+        },
+        {
+            "time": "2026-10-21T16:40:06.912031",
+            "command": "sing a song"
+        },
+        {
+            "time": "2026-10-21T16:40:30.094501",
+            "command": "roti kha li kya apne"
+        }
+    ],
+    "gemini_api_key": "",
+    "gemini_model": "gemini-3.8-flash",
+    "tts_enabled": false,
+    "tts_rate": 175,
+    "tts_volume": 0.9
+}
